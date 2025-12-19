@@ -89,10 +89,10 @@ const officialReports = [
   },
   {
     id: 3,
-    title: 'Báo cáo mực nước sông Mekong tại Kratie',
-    source: 'Mekong Data Portal - Ủy hội sông Mekong',
-    url: 'https://portal.mrcmekong.org',
-    date: '13/12/2024',
+    title: 'Long An công bố xâm nhập mặn khẩn cấp',
+    source: 'VNEXPRESS - Báo điện tử',
+    url: 'https://vnexpress.net/long-an-cong-bo-xam-nhap-man-khan-cap-4735647.html',
+    date: '17/04/2024',
     data: {
       waterLevel: '8.2m',
       discharge: '3500 m³/s',
@@ -101,10 +101,12 @@ const officialReports = [
       tide: 'Chế độ bán nhật triều'
     },
     highlights: [
-      'Mực nước Biển Hồ đang ở mức thấp',
-      'Dự báo giảm tiếp trong 7 ngày tới',
-      'Ảnh hưởng đến xâm nhập mặn ĐBSCL'
-    ]
+    "Tỉnh Long An chính thức công bố rủi ro thiên tai xâm nhập mặn ở cấp độ cao nhất (cấp 4).",
+    "Nước mặn (4‰) đã xâm nhập sâu vào hệ thống sông chính, ảnh hưởng trực tiếp đến nguồn nước sinh hoạt.",
+    "Hơn 20.000 người dân đang bị thiếu nước sinh hoạt do hạn mặn kéo dài.",
+    "Tỉnh đã đề xuất ngân sách lớn cho các biện pháp cấp bách như nạo vét kênh, lắp trạm bơm, cung cấp nước sạch.",
+    "Đây là tỉnh thứ ba ở ĐBSCL (sau Tiền Giang và Cà Mau) công bố tình trạng khẩn cấp về xâm nhập mặn trong mùa khô năm nay."
+  ]
   },
   {
     id: 4,

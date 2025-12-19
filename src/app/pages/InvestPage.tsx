@@ -155,7 +155,7 @@ export function InvestPage() {
             <div className="bg-purple-100 w-16 h-16 rounded-2xl flex items-center justify-center mb-4">
               <Award className="w-8 h-8 text-purple-600" />
             </div>
-            <h3 className="font-bold text-xl text-gray-900 mb-3">Tổ chức khoa học</h3>
+            <h3 className="font-bold text-xl text-gray-900 mb-3">Tổ chức Khoa học - Kỹ thuật</h3>
             <p className="text-gray-700 mb-4">
               Triển khai nghiên cứu, thử nghiệm mô hình mới tại vùng thực tế
             </p>
