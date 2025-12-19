@@ -54,7 +54,7 @@ export function DashboardPage({ onNavigate }: DashboardPageProps) {
             subtitle="Được bảo vệ"
           />
           <StatsCard
-            title="Tỷ lệ dự đoán"
+            title="Tỷ lệ dự đoán độ mặn"
             value={`${overallStats.successRate}%`}
             icon={CheckCircle}
             color="purple"

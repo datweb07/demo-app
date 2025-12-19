@@ -244,7 +244,7 @@ export function InvestPage() {
           <div className="bg-gradient-to-br from-green-500 to-green-600 rounded-2xl p-6 text-white">
             <Mail className="w-10 h-10 mb-3" />
             <h3 className="font-bold text-lg mb-2">Email</h3>
-            <p className="text-lg font-bold">invest@dbscl.vn</p>
+            <p className="text-lg font-bold">uehstudent.edu.vn</p>
             <p className="text-sm opacity-90 mt-1">Phản hồi trong 24h</p>
           </div>
           <div className="bg-gradient-to-br from-purple-500 to-purple-600 rounded-2xl p-6 text-white">
