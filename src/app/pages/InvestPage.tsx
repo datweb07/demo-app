@@ -213,7 +213,7 @@ export function InvestPage() {
             <div>
               <label className="block text-gray-700 font-bold mb-2">Loại hình hợp tác *</label>
               <select className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:outline-none">
-                <option>Nh�� đầu tư</option>
+                <option>Nhà đầu tư</option>
                 <option>Doanh nghiệp</option>
                 <option>Tổ chức khoa học</option>
                 <option>Khác</option>
