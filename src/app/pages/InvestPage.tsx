@@ -215,7 +215,7 @@ export function InvestPage() {
               <select className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:outline-none">
                 <option>Nhà đầu tư</option>
                 <option>Doanh nghiệp</option>
-                <option>Tổ chức khoa học</option>
+                <option>Tổ chức Khoa học - Kỹ thuật</option>
                 <option>Khác</option>
               </select>
             </div>
@@ -250,7 +250,7 @@ export function InvestPage() {
           <div className="bg-gradient-to-br from-purple-500 to-purple-600 rounded-2xl p-6 text-white">
             <MapPin className="w-10 h-10 mb-3" />
             <h3 className="font-bold text-lg mb-2">Văn phòng</h3>
-            <p className="font-bold">Cần Thơ, Việt Nam</p>
+            <p className="font-bold">Long An, Việt Nam</p>
             <p className="text-sm opacity-90 mt-1">Đồng Bằng Sông Cửu Long</p>
           </div>
         </div>

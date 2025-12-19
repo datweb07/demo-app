@@ -101,7 +101,7 @@ export function DashboardPage({ onNavigate }: DashboardPageProps) {
               onClick={() => onNavigate?.('products')}
               className="bg-gradient-to-r from-purple-500 to-purple-600 text-white p-6 rounded-xl font-bold text-lg hover:scale-105 transition-transform shadow-lg"
             >
-              🛒 Mua thiết bị hỗ trợ
+              🛒 Mua bán thiết bị hỗ trợ
             </button>
             <button 
               onClick={() => onNavigate?.('invest')}

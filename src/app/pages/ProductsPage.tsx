@@ -82,17 +82,17 @@ export function ProductsPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-white rounded-xl p-4 border-2 border-purple-100">
               <p className="text-2xl mb-2">🎯</p>
-              <p className="font-bold text-purple-600 mb-1">Tiếp cận 48,500+ nông dân</p>
+              <p className="font-bold text-purple-600 mb-1">Tiếp cận hơn 48,500+ Nông dân</p>
               <p className="text-sm text-gray-600">Khách hàng tiềm năng lớn</p>
             </div>
             <div className="bg-white rounded-xl p-4 border-2 border-blue-100">
               <p className="text-2xl mb-2">⭐</p>
-              <p className="font-bold text-blue-600 mb-1">Tăng uy tín qua điểm</p>
+              <p className="font-bold text-blue-600 mb-1">Tăng uy tín qua hình thức tích điểm</p>
               <p className="text-sm text-gray-600">Hệ thống đánh giá minh bạch</p>
             </div>
             <div className="bg-white rounded-xl p-4 border-2 border-green-100">
               <p className="text-2xl mb-2">💰</p>
-              <p className="font-bold text-green-600 mb-1">Không thu phí trung gian</p>
+              <p className="font-bold text-green-600 mb-1">Không tính phí trung gian</p>
               <p className="text-sm text-gray-600">Liên hệ trực tiếp, tiết kiệm</p>
             </div>
           </div>
